@@ -4,7 +4,7 @@ public abstract class Tooltip<Todisplay> : MonoBehaviour
 {
     public void show(Todisplay thing)
     {
-        gameObject.SetActive(true);
+        this.transform.GetChild(0).gameObject.SetActive(true);
         _update(thing);
     }
 
@@ -12,7 +12,8 @@ public abstract class Tooltip<Todisplay> : MonoBehaviour
 
     public void hide()
     {
-        gameObject.SetActive(false);
+        this.transform.GetChild(0).gameObject.SetActive(false);
+        //gameObject.SetActive(false);
     }
 
     private void Awake()

@@ -19,6 +19,8 @@ namespace ItemSystem
         {
             stats.max_hp += max_hp;
             stats.attack_power += attack_power;
+            stats.armor += armor;
+            stats.magic_barier += magic_barier;
         }
 
         private void OnEnable()
@@ -49,7 +51,7 @@ namespace ItemSystem
 
             if (magic_barier != 0)
             {
-                accu += String.Format("{0:0.#\\%}", magic_barier*100) + " magic barrier\n";
+                accu += String.Format("{0:0.#\\%}", magic_barier * 100) + " magic barrier\n";
             }
 
             return accu;

@@ -8,10 +8,12 @@ namespace ItemSystem
 {
     public class ItemInventoryRow : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
     {
-        public Tooltip<Item> display;
+        public ItemDisplay display;
         public Text name_text;
         public Button activate_button;
         public float button_height = 15;
+        public int tick = 1;
+        public int every_ticks = 120;
 
         [SerializeField] private Item _item;
         public Player player;
@@ -25,6 +27,19 @@ namespace ItemSystem
                 update();
             }
         }
+
+/*        void Update()
+        {
+            if (!display)
+            {
+                tick += 1;
+                if (tick % every_ticks == 0)
+                {
+                    search_for_display();
+                    tick = 1;
+                }
+            }
+        }*/
 
         private void update()
         {
@@ -45,7 +60,12 @@ namespace ItemSystem
         private void Awake()
         {
             update();
-            var foundObjects = FindObjectsOfType<Tooltip<Item>>();
+            search_for_display();
+        }
+
+        private void search_for_display()
+        {
+            var foundObjects = FindObjectsOfType<ItemDisplay>();
             if (foundObjects.Length == 1)
             {
                 this.display = foundObjects.First();

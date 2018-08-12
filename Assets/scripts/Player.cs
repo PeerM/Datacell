@@ -103,17 +103,16 @@ public class Player : MonoBehaviour
 
         combat.stats = tmp;
 
-        inventory.reload(items, this);
+        inventory.reload(items, this, max_slots);
     }
 
     public bool Add(Item item)
     {
-
         if (item.name == "winning")
         {
             SceneManager.LoadScene("won");
         }
-        
+
         if (items.Count >= max_slots)
         {
             return false;

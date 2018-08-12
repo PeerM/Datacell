@@ -1,5 +1,6 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 namespace ItemSystem
 {
@@ -7,9 +8,10 @@ namespace ItemSystem
     {
         public GameObject itempanel_prefab;
         public GameObject gui_container;
+        public Text number_display;
 
 
-        public void reload(List<Item> items, Player player)
+        public void reload(List<Item> items, Player player, int max_items)
         {
             // delete all childeren
             foreach (Transform child in gui_container.transform)
@@ -25,6 +27,8 @@ namespace ItemSystem
                 itemInventoryRow.item = item;
                 itemInventoryRow.player = player;
             }
+
+            number_display.text = items.Count + " out of " + max_items + " full";
         }
     }
 }

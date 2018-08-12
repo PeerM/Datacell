@@ -79,8 +79,8 @@ public class Combatant : MonoBehaviour
     private static bool b_attacks_a(Combatant a, Combatant b)
     {
         var damage = b.stats.attack_power - a.stats.armor;
-        damage = (int) (damage * b.stats.magic_barier);
-        a.health -= b.stats.attack_power;
+        damage = (int) (damage - damage * b.stats.magic_barier);
+        a.health -= damage;
         if (a.health <= 0)
         {
             a.handle_death();
