@@ -1,0 +1,2126 @@
+fileFormatVersion: 2
+guid: 0092703336379ee4a98916724ee0f3d2
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: UbuntuMono-R Atlas_0
+    21300002: UbuntuMono-R Atlas_1
+    21300004: UbuntuMono-R Atlas_2
+    21300006: UbuntuMono-R Atlas_3
+    21300008: UbuntuMono-R Atlas_4
+    21300010: UbuntuMono-R Atlas_5
+    21300012: UbuntuMono-R Atlas_6
+    21300014: UbuntuMono-R Atlas_7
+    21300016: UbuntuMono-R Atlas_9
+    21300018: UbuntuMono-R Atlas_10
+    21300020: UbuntuMono-R Atlas_11
+    21300022: UbuntuMono-R Atlas_12
+    21300024: UbuntuMono-R Atlas_13
+    21300026: UbuntuMono-R Atlas_14
+    21300028: UbuntuMono-R Atlas_15
+    21300030: UbuntuMono-R Atlas_16
+    21300032: UbuntuMono-R Atlas_17
+    21300034: UbuntuMono-R Atlas_18
+    21300036: UbuntuMono-R Atlas_19
+    21300038: UbuntuMono-R Atlas_20
+    21300040: UbuntuMono-R Atlas_21
+    21300042: UbuntuMono-R Atlas_22
+    21300044: UbuntuMono-R Atlas_26
+    21300046: UbuntuMono-R Atlas_27
+    21300048: UbuntuMono-R Atlas_28
+    21300050: UbuntuMono-R Atlas_29
+    21300052: UbuntuMono-R Atlas_30
+    21300054: UbuntuMono-R Atlas_31
+    21300056: UbuntuMono-R Atlas_32
+    21300058: UbuntuMono-R Atlas_33
+    21300060: UbuntuMono-R Atlas_34
+    21300062: UbuntuMono-R Atlas_35
+    21300064: UbuntuMono-R Atlas_36
+    21300066: UbuntuMono-R Atlas_37
+    21300068: UbuntuMono-R Atlas_38
+    21300070: UbuntuMono-R Atlas_39
+    21300072: UbuntuMono-R Atlas_40
+    21300074: UbuntuMono-R Atlas_43
+    21300076: UbuntuMono-R Atlas_44
+    21300078: UbuntuMono-R Atlas_45
+    21300080: UbuntuMono-R Atlas_46
+    21300082: UbuntuMono-R Atlas_47
+    21300084: UbuntuMono-R Atlas_48
+    21300086: UbuntuMono-R Atlas_49
+    21300088: UbuntuMono-R Atlas_50
+    21300090: UbuntuMono-R Atlas_51
+    21300092: UbuntuMono-R Atlas_52
+    21300094: UbuntuMono-R Atlas_53
+    21300096: UbuntuMono-R Atlas_54
+    21300098: UbuntuMono-R Atlas_55
+    21300100: UbuntuMono-R Atlas_56
+    21300102: UbuntuMono-R Atlas_57
+    21300104: UbuntuMono-R Atlas_58
+    21300106: UbuntuMono-R Atlas_59
+    21300108: UbuntuMono-R Atlas_60
+    21300110: UbuntuMono-R Atlas_61
+    21300112: UbuntuMono-R Atlas_63
+    21300114: UbuntuMono-R Atlas_64
+    21300116: UbuntuMono-R Atlas_65
+    21300118: UbuntuMono-R Atlas_66
+    21300120: UbuntuMono-R Atlas_67
+    21300122: UbuntuMono-R Atlas_68
+    21300124: UbuntuMono-R Atlas_69
+    21300126: UbuntuMono-R Atlas_70
+    21300128: UbuntuMono-R Atlas_71
+    21300130: UbuntuMono-R Atlas_72
+    21300132: UbuntuMono-R Atlas_73
+    21300134: UbuntuMono-R Atlas_74
+    21300136: UbuntuMono-R Atlas_75
+    21300138: UbuntuMono-R Atlas_76
+    21300140: UbuntuMono-R Atlas_77
+    21300142: UbuntuMono-R Atlas_78
+    21300144: UbuntuMono-R Atlas_80
+    21300146: UbuntuMono-R Atlas_81
+    21300148: UbuntuMono-R Atlas_82
+    21300150: UbuntuMono-R Atlas_83
+    21300152: UbuntuMono-R Atlas_84
+    21300154: UbuntuMono-R Atlas_85
+    21300156: UbuntuMono-R Atlas_86
+    21300158: UbuntuMono-R Atlas_87
+    21300160: UbuntuMono-R Atlas_88
+    21300162: UbuntuMono-R Atlas_89
+    21300164: UbuntuMono-R Atlas_91
+    21300166: UbuntuMono-R Atlas_92
+    21300168: UbuntuMono-R Atlas_93
+    21300170: UbuntuMono-R Atlas_94
+    21300172: UbuntuMono-R Atlas_95
+    21300174: UbuntuMono-R Atlas_96
+    21300176: UbuntuMono-R Atlas_97
+    21300178: UbuntuMono-R Atlas_98
+    21300180: UbuntuMono-R Atlas_99
+    21300182: UbuntuMono-R Atlas_100
+    21300184: UbuntuMono-R Atlas_101
+    21300186: UbuntuMono-R Atlas_102
+    21300188: UbuntuMono-R Atlas_103
+    21300190: UbuntuMono-R Atlas_105
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 72
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 425
+        width: 24
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05d52f2065e25f429b5c318f91ec810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 425
+        width: 21
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e536e35425093c34aabd92cf7784b8dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 474
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ffde0e926243349877123090d98429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 474
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5154d93f606d98240b1915481a72119c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 474
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66467375430659c4190d9cab7c64c366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_5
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 471
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bdba4481b0a204cb91b4b5517f35b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_6
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 463
+        width: 13
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650f969fac492ff458d3594253d76d60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 463
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0b653ce5d581544aac5553fa3b1b5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_9
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 437
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cca69d2ffe202641870e1d6d235e252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_10
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 437
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83958168c5709e140900ef39ed44e9e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_11
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 437
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c153a3eed263fd458cf983cbc808706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_12
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 409
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64ef585e3de4e742bc0bc1cfeeb9632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_13
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 409
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b2a209bcb222e49b445a22bb120979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_14
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 406
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0df00ad9a2dc90479091f1b041a8982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_15
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 400
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ce3b1844fd598418f70c3e3b40fbad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_16
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 399
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fff2ba930b16974c8cd057ed89ed7ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_17
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 374
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e8f0bbc59bf6147bba9d94d6b8c983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_18
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 374
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12bfcdad632fea647a74bf5c8e511bc8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_19
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 422
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9898f25d05a8c934e82acb3bb0ab4085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 341
+        width: 24
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3509ee23086434c8d6a701fe903807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_21
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 341
+        width: 21
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4061e6fc3c5399449857b20b371735f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_22
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 339
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a580e8fefb56371498d9ae5c658277a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_26
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 383
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cc59d66e9870b4d842866f80222151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_27
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 372
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8ed3b48e7d8e543830b51cfe8962c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_28
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 360
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de9933950b4f1540a1fad39e6c183d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_29
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 383
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36c5f43b5d837b46988cb3e5384220c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_30
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 383
+        width: 41
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f3fd7912cc5334c878ebdaadaad049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_31
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 325
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876630c10c0606c479d41eaa65ae9b71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 318
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1323da3529920240941f06db2110f81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_33
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 317
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa66ef7df693f4a498265096f89975e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_34
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 316
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c50b7258b5074468ec0027cc16fd2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_35
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 311
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0444277a398014a89df8195d16fca8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_36
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 311
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0e51f4ccf4d844c81dc1270a2756e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_37
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 309
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33947f6c047e9ee45859bf24e61f419d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_38
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 306
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9cf11252b0f6e74ebcf553f40a62282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_39
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 310
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d82c73778b26b540bed8b2138a76f59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 257
+        width: 30
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9f77b901790f342a48d5becd94ee48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_43
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 257
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197e057ead5fb1c499f5f2d8ca48e215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_44
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 255
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bec00ce2a0c0a498fee84cc7b51bc2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_45
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 253
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8d6a83ef4bbe3409dd4875472c89ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_46
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 253
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86c3b58bae4b72499a1df39ae94a2e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_47
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 252
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5a2755d139a934a85690eb6f56316a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_48
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 248
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df85812cb28928a4f9bcc6963054093f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_49
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 248
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3c585129c99284c95b8fc01c626c14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_50
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 246
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb43f9aa219fc1d4592623dd25ea7ced
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_51
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 243
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1107301baec8f845ab88c527856305b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_52
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 260
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7652bf1b312eb42b5f9ef7078145a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_53
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 173
+        width: 30
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157c578400a18c64a97a5bcf7dabc589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_54
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 173
+        width: 7
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f335a439247e2404a94add2c66fab79b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_55
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 230
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2606487a504e6084cb4f4baecefdf93a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_56
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 230
+        width: 37
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fd78e7fd768264f8b97bd618ef1ac0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_57
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 221
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727d17fa672bad74e9a0b089e374efa2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_58
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 207
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac63bdeae8b56b045a70e2c50ebf8adc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_59
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 198
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3731ed4e8fbb3c344a9d447268028484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_60
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 198
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c39ee233e1e9a549ad9140195d6c925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_61
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 197
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c163cf6d67d16614aa2383830dc6cd6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_63
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 196
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece3f34884f752c44a287e775f86e4f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_64
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 194
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151b9d324645dac4fa3b860434f59db1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_65
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 181
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cb1066bd1ba334ca63db777c0cf100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_66
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 89
+        width: 31
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7754c3a9825adba4aa46cfef632cb6d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_67
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 160
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1158c03cbdc371745b8fe0af8375b163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_68
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 151
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fcc397eacf6e6943a56d3ec752d4dc9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_69
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 143
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178aabc01ca16f845b5152e4267411b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_70
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 134
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c52d980f0922db4397d628b7ce0ebcf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_71
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 134
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8541552fb4e53c42931b917c187abaf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_72
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 133
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ba6e70eebad4d43bd8c1c4e8bd644d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_73
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 131
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2756996cc1b42aa4789cabf9414bcf2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_74
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 131
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa89931d382ec743a4a1325f558d013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_75
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 131
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607d95c534a5e514e93af2a08e37bf50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_76
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 149
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54bdd26f947c8c4dbd73f9c0d1f44a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_77
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 83
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d7f1c14358c5a4aae6e9ae6c1db713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_78
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 81
+        width: 35
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b49c7a577e6a254697f37453a8d646c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_80
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 70
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b63e443996ab8348a7f4ddeef0f8def
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_81
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 70
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe2a4d4a30bdaf43b7827799b4dc42b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_82
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 69
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462a81f2eb0f9b94ca53440535c2ce8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_83
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 99
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5971bf7e895d648a26d0f3bd363d95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_84
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 31
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e45417d3fc5da4582f412f8dc73fb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_85
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 75
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18304c625033d4842b6b9ad764644608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_86
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 68
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03b6bd9864fd35488f0b07b47b8d774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_87
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 68
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5223283bb925d3f49a969d28d5043c52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_88
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 68
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf193f122057ba842a08b5bfafca6830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_89
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 68
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71221866d143f04f9c30d535a522e50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_91
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 5
+        width: 33
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad99a1adf1192a409b2af51c41090f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_92
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 5
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d996266bbe6ccf45ac6dd962df891bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_93
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 5
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad7c74b9c483ed4db5b1d975b688806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_94
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 33
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30df656299266f429e6beb04b2730ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_95
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 6
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d14ab66c4824341b8caffca1e36f47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_96
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 5
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aee3e4934276de4297c259f28970265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_97
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 4
+        width: 18
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261d30ed84acb9540b33069d065f5051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_98
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 5
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add19517258a4be46854a1a37bf6cf6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_99
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 5
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656e5f92a8d5b6a4a9e10dd4aec70393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_100
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 5
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3013f61747b7a754d8dfc5ccfe19f02f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_101
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 5
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9df1d971ea8b249bfa5c5bf5e32d0c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_102
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 36
+        width: 18
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a58cdf89f3a3647ba8f42ed11a6f26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_103
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 5
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72c59d09d4814949acf964e41f38a7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UbuntuMono-R Atlas_105
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 5
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ab4435a89e8cc40b196bfcbee3eed7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f9630fa667e373e4a967d2cf0a0c3931
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
